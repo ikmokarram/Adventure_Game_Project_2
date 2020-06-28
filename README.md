@@ -21,7 +21,7 @@ Text-based adventure games (also known as IF or Interactive Fiction) is a classi
 
 # Result:-
   * copy the project and open the terminal run the file
-  * pthon adventure_game.py
+  * run python adventure_game.py
 
 
 
